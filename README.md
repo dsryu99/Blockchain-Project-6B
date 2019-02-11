@@ -120,10 +120,21 @@ All tests are approved without error.
 
 ## Deploy smart contract on a public test network (Rinkeby)
 Smart contract is deployed on the Ethereum RINKEBY test network.
-
+```
+Contract ID: 0xe2c9aeBBE63326a07240D1aAC1B6389118fb86d5
+```
+```
+URL: https://rinkeby.etherscan.io/address/0xe2c9aebbe63326a07240d1aac1b6389118fb86d5
+```
+```
+Transaction ID of the contract creation in Rinkeby: 0x072f69759a0d6e5976030203e4234c643ffab0718e9729af6f510b74d496ddc2
+```
 ![alt text][image6]
+
 
 ## Modify client code to interact with a smart contract
 Client code interacts with smart contract.
-
+```
+https://rinkeby.etherscan.io/address/0xe2c9aebbe63326a07240d1aac1b6389118fb86d5#events
+```
 ![alt text][image7]
